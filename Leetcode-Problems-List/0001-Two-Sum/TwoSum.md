@@ -1,8 +1,5 @@
 ## 1. Two Sum => [original page](https://leetcode.com/problems/two-sum/description/)
-   Easy ---> Solved
-   
-   Companies
-   Hint
+   Easy ---> Solved 
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -35,14 +32,21 @@ Constraints:
 
   * Only one valid answer exists.
 
-### First metod => HashMap
+* ### Base data
+
+```Golang
+func twoSum(nums []int, target int) []int {
+}
+```
+
+* ### First metod => HashMap
 ```Golang
     valueIndex = make(map[int]int,len)
     for i;i<len;i++
 ```
 
 
-### Second metod => Brute Force
+* ### Second metod => Brute Force
 ```Golang
     for i;i<len;i++
         for j=i+1;j<len;j++
