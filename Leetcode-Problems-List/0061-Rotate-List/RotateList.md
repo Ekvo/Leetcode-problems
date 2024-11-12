@@ -1,19 +1,29 @@
-## 61. Rotate List => [original page](https://leetcode.com/problems/rotate-list/description/)
-   Medium ---> Solved   
+## 61. Rotate List => [original page](https://leetcode.com/problems/rotate-list/description/ "https://leetcode.com/problems/rotate-list/description/")
 
+---
+  | Property               |      |   Target |              
+  |------------------------|:----:|---------:|
+  | complexity of the task | ---> | _Medium_ |
+  | status                 | ---> | _Solved_ |
+
+---
+**Task:** 
 Given the head of a linked list, rotate the list to the right by k places.
+---
+**Example 1:**
 
-Example 1:
+**Input:** head = [1,2,3,4,5], k = 2
 
-Input: head = [1,2,3,4,5], k = 2
-Output: [4,5,1,2,3]
+**Output:** [4,5,1,2,3]
 
-Example 2:
+**Example 2:**
 
-Input: head = [0,1,2], k = 4
-Output: [2,0,1]
+**Input:** head = [0,1,2], k = 4
 
-Constraints:
+**Output:** [2,0,1]
+
+---
+**Constraints:**
 
    * The number of nodes in the list is in the range [0, 500].
 
@@ -21,7 +31,8 @@ Constraints:
 
    * $0 <=$ k $<= 2 * 10^9$
 
-* ### Base data => [go to code](https://github.com/Ekvo/Leetcode-problems/blob/step-new/Leetcode-Problems-List/0061-Rotate-List/rotateList.go) 
+---
+* ### Base data
 
 ```Golang
 /**
@@ -35,6 +46,10 @@ func rotateRight(head *ListNode, k int) *ListNode {
 }
 ```
 
+---
+### [Solution => 0061. Rotate List](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go")
+
+---
 * ### Metod => Cycle List 
 ```Golang
  tail.Next = head
