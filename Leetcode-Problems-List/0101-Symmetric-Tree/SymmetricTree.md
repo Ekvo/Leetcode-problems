@@ -48,7 +48,7 @@ func isSymmetric(root *TreeNode) bool {
 ---
 * ### Metod => Depth First Search and Recursion
 ```Golang
-    finder(root.Left, root.Right)
+func finder(root.Left, root.Right)
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/101_Symmetric_Tree.jpg)

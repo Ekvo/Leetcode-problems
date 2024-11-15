@@ -59,6 +59,6 @@ func pathSum(root *TreeNode, targetSum int) [][]int {
 ---
 * ### Metod => Depth First Search and Recursion
 ```Golang              
-    finder(*TreeNode,int,int)
+func finder(*TreeNode,int,int)//root,currentSum,index of array
 ```
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/113_Path_Sum_II.jpg)

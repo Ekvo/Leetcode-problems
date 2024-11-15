@@ -62,6 +62,6 @@ func hasPathSum(root *TreeNode, targetSum int) bool {
 ---
 * ### Metod =>  Depth First Search and Recursion
 ```Golang
-    finder(*TreeNode,int) bool
+func  finder(*TreeNode,int) bool
 ```
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/112_Path_Sum.jpg)

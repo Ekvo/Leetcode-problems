@@ -47,7 +47,7 @@ func rotateRight(head *ListNode, k int) *ListNode {
 ---
 * ### Metod => Cycle List 
 ```Golang
-    tail.Next = head
+   tail.Next = head
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/61_Rotate_List.jpg)

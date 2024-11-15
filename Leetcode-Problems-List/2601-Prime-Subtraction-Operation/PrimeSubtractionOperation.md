@@ -67,9 +67,9 @@ func primeSubOperation(nums []int) bool {
 * ### Skeleton
 
 ```Golang
-    primeSubOperation([]int) bool   //main function
-    toLessValue([]int,int,int) int  //decreases nums[i] value
-    primeNumbers(int,int) []int     //create and return an array of prime numbers
+func primeSubOperation([]int) bool   //main function
+func toLessValue([]int,int,int) int  //decreases nums[i] value
+func primeNumbers(int,int) []int     //create and return an array of prime numbers
 ```
 * ### Main idea for binary seach metod for 2601
 
