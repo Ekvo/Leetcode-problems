@@ -49,7 +49,7 @@ Explanation: `The only optimal way is:`
 **Constraints:**  
    * `m == quantities.length`
    * $1$ `<= m <= n <=` $10^5$
-   * $1$ `<= quantities[i] <=` $10^5$
+   * $1$ `<= quantities[i] <=` $10^
 
 ---
 * ### Base data
@@ -73,5 +73,4 @@ func minimizedMaximum(n int, quantities []int) int {
     }
 
 ```
-
-![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/MinimizedMaximumProductsDistributedAnyStore.jpg)
+![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.jpg)

@@ -8,7 +8,7 @@
 
 ---
 **Task:**  
-Given the head of a linked list, rotate the list to the right by k places.
+Given the head of a linked list, rotate the list to the right by `k` places.
 ---
 **Example 1:**
 
@@ -42,7 +42,7 @@ func rotateRight(head *ListNode, k int) *ListNode {
 ```
 
 ---
-### [Solution => 0061. Rotate List](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go")
+### [Solution => 61. Rotate List](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go")
 
 ---
 * ### Metod => Cycle List 
@@ -50,6 +50,6 @@ func rotateRight(head *ListNode, k int) *ListNode {
     tail.Next = head
 ```
 
-![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/61_Rotate_List.jpg)
+![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/61_Rotate_List.jpg)
  
 
