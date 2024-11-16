@@ -44,7 +44,7 @@ func maxProfit(prices []int) int {
 ```
 
 ---
-### [Solution => 121. Best Time to Buy and Sell Stock](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0121-Best-Time-to-Buy-and-Sell-Stock/bestTimeBuySellStock.go "")
+### [Solution => 121. Best Time to Buy and Sell Stock](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0121-Best-Time-to-Buy-and-Sell-Stock/bestTimeBuySellStock.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0121-Best-Time-to-Buy-and-Sell-Stock/bestTimeBuySellStock.go")
 
 ---
 * ### Metod => Dynamic Programming
