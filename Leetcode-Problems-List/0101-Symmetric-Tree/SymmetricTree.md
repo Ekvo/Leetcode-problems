@@ -43,7 +43,7 @@ func isSymmetric(root *TreeNode) bool {
 ```
 
 ---
-### [Solution => 101. Symmetric Tree](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/symmetricTree.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/symmetricTree.go")
+### [Solution => 101. Symmetric Tree](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/leetcodeonezeroone.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0101-Symmetric-Tree/leetcodeonezeroone.go")
 
 ---
 * ### Metod => Depth First Search and Recursion

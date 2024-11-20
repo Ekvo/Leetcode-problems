@@ -60,7 +60,7 @@ func minimizedMaximum(n int, quantities []int) int {
 ```
 
 ---
-### [Solution => 2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/minimizedMaximumProductsDistributedAnyStore.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/minimizedMaximumProductsDistributedAnyStore.go")
+### [Solution => 2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/leetcodetwozerosixfour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/leetcodetwozerosixfour.go")
 
 ---
 * ### Metod => Binary Search

@@ -5,7 +5,7 @@
 // and you may not use the same element twice.
 //
 // You can return the answer in any order.
-package twoSum
+package leetcodeone
 
 // HashMap metod
 func twoSum(nums []int, target int) []int {

@@ -8,7 +8,7 @@
 // Return true if you can make nums a strictly increasing array using the above operation and false otherwise.
 //
 // A strictly increasing array is an array whose each element is strictly greater than its preceding element.
-package primeSubtractionOperation
+package leetcodetwosixzeroone
 
 import "math"
 

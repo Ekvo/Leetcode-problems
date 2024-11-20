@@ -10,7 +10,7 @@
 // i.e., you want to minimize the maximum number of products that are given to any store.
 //
 // Return the minimum possible x.
-package minimizedMaximumProductsDistributedAnyStore
+package leetcodetwozerosixfour
 
 func minimizedMaximum(n int, quantities []int) int {
 	var (

@@ -50,7 +50,7 @@ func twoSum(nums []int, target int) []int {
 }
 ```
 ---
-### [Solution => 1. Two Sum](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0001-Two-Sum/twoSum.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0001-Two-Sum/twoSum.go")
+### [Solution => 1. Two Sum](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0001-Two-Sum/leetcodeone.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0001-Two-Sum/leetcodeone.go")
 
 ---
 * ### First metod => HashMap

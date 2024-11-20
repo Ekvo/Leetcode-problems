@@ -4,7 +4,7 @@
 // Return the length of the shortest subarray to remove.
 //
 // A subarray is a contiguous subsequence of the array.
-package shortestSubarrayRemovedMakeArraySorted
+package leetcodeonefivesevenfour
 
 func findLengthOfShortestSubarray(arr []int) int {
 	var (

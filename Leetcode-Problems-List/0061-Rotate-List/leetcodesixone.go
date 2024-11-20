@@ -1,5 +1,5 @@
 // Given the head of a linked list, rotate the list to the right by k places.
-package rotateList
+package leetcodesixone
 
 type ListNode struct {
 	Val  int

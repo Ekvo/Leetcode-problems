@@ -4,7 +4,7 @@
 // shortest path from the root node down to the nearest leaf node.
 //
 // Note: A leaf is a node with no children.
-package minimumDepthBinaryTree
+package leetcodeoneoneone
 
 import "math"
 

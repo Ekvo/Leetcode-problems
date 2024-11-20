@@ -56,7 +56,7 @@ func decrypt(code []int, k int) []int {
 ```
 
 ---
-### [Solution => 1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/defuseBomb.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/defuseBomb.go")
+### [Solution => 1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/leetcodeonesixfivetwo.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/leetcodeonesixfivetwo.go")
 
 ---
 * ### Metod => Double cycle 'for'

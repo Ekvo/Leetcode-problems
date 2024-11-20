@@ -62,7 +62,7 @@ func maximumBeauty(items [][]int, queries []int) []int {
 ```
 
 ---
-### [Solution => 2070. Most Beautiful Item for Each Query](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/mostBeautifulItemForEachQuery.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/mostBeautifulItemForEachQuery.go")
+### [Solution => 2070. Most Beautiful Item for Each Query](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/leetcodetwozerosevenzero.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/leetcodetwozerosevenzero.go")
 
 ---
 * ### Metod => Binary Seach

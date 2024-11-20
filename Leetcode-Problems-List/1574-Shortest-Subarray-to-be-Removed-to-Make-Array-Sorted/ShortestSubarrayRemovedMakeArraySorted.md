@@ -49,7 +49,7 @@ func findLengthOfShortestSubarray(arr []int) int {
 ```
 
 ---
-### [Solution => 1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/shortestSubarrayRemovedMakeArraySorted.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/shortestSubarrayRemovedMakeArraySorted.go")
+### [Solution => 1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/leetcodeonefivesevenfour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/leetcodeonefivesevenfour.go")
 
 ---
 * ### Metod => Two Pointers

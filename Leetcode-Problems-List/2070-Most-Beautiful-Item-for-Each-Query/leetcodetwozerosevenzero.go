@@ -6,7 +6,7 @@
 //
 // Return an array answer of the same length as queries where answer[j]
 // is the answer to the jth query
-package mostBeautifulItemForEachQuery
+package leetcodetwozerosevenzero
 
 import "sort"
 

@@ -58,7 +58,7 @@ func resultsArray(nums []int, k int) []int {
 ```
 
 ---
-### [Solution => 3254. Find the Power of K-Size Subarrays I](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/findPowerKSizeSubarraysI.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/findPowerKSizeSubarraysI.go")
+### [Solution => 3254. Find the Power of K-Size Subarrays I](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/leetcodethreetwofivefour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/leetcodethreetwofivefour.go")
 
 ---
 * ### Metod => Small Big Steps on the Array

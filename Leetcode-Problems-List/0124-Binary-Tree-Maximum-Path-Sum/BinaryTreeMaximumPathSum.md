@@ -47,7 +47,7 @@ func maxPathSum(root *TreeNode) int {
 ```
 
 ---
-### [Solution => 124. Binary Tree Maximum Path Sum](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0124-Binary-Tree-Maximum-Path-Sum/binaryTreeMaximumPathSum.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0124-Binary-Tree-Maximum-Path-Sum/binaryTreeMaximumPathSum.go")
+### [Solution => 124. Binary Tree Maximum Path Sum](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0124-Binary-Tree-Maximum-Path-Sum/leetcodeonetwofour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0124-Binary-Tree-Maximum-Path-Sum/leetcodeonetwofour.go")
 
 ---
 * ### Metod => Depth First Search and Recursion

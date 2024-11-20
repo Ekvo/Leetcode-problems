@@ -3,7 +3,7 @@
 // the path equals targetSum. Each path should be returned as a list of the node values, not node references.
 //
 // A root-to-leaf path is a path starting from the root and ending at any leaf node. A leaf is a node with no children.
-package pathSumII
+package leetcodeoneonethree
 
 // Definition for a binary tree node.
 type TreeNode struct {

@@ -59,7 +59,7 @@ func primeSubOperation(nums []int) bool {
 ```
 
 ---
-### [Solution => 2601. Prime Subtraction Operation](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/primeSubtractionOperation.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/primeSubtractionOperation.go")
+### [Solution => 2601. Prime Subtraction Operation](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/leetcodetwosixzeroone.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/leetcodetwosixzeroone.go")
 
 ---
 ## Metod => Binary Seach

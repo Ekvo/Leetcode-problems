@@ -47,7 +47,7 @@ func minDepth(root *TreeNode) int {
 ```
 
 ---
-### [Solution => 111. Minimum Depth of Binary Tree](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/minimumDepthBinaryTree.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/minimumDepthBinaryTree.go")
+### [Solution => 111. Minimum Depth of Binary Tree](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/leetcodeoneoneone.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/leetcodeoneoneone.go")
 
 ---
 * ### Metod => BFS and Queue

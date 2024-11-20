@@ -42,7 +42,7 @@ func rotateRight(head *ListNode, k int) *ListNode {
 ```
 
 ---
-### [Solution => 61. Rotate List](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/rotateList.go")
+### [Solution => 61. Rotate List](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/leetcodesixone.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0061-Rotate-List/leetcodesixone.go")
 
 ---
 * ### Metod => Cycle List 

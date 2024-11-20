@@ -47,7 +47,7 @@ func calculate(s string) int {
 ```
 
 ---
-### [Solution => 224. Basic Calculator](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0224-Basic-Calculator/basicCalculator.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0224-Basic-Calculator/basicCalculator.go")
+### [Solution => 224. Basic Calculator](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0224-Basic-Calculator/leetcodetwotwofour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0224-Basic-Calculator/leetcodetwotwofour.go")
 
 ---
 * ### Metod => Biern Stroustrup ---> Recursion Calculator

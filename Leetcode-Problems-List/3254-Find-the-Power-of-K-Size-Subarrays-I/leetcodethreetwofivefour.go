@@ -10,7 +10,7 @@
 // of nums of size k.
 //
 // Return an integer array results of size n - k + 1, where results[i] is the power of nums[i..(i + k - 1)].
-package findPowerKSizeSubarraysI
+package leetcodethreetwofivefour
 
 const negativPower = -1
 

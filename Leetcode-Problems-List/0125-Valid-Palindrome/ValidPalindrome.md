@@ -47,7 +47,7 @@ func isPalindrome(s string) bool {
 ```
 
 ---
-### [Solution => 125. Valid Palindrome](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0125-Valid-Palindrome/validPalindrome.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0125-Valid-Palindrome/validPalindrome.go")
+### [Solution => 125. Valid Palindrome](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0125-Valid-Palindrome/leetcodeonetwofive.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0125-Valid-Palindrome/leetcodeonetwofive.go")
 
 ---
 * ### Metod => Head >> Center << Tail

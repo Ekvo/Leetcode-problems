@@ -9,7 +9,7 @@
 // As code is circular, the next element of code[n-1] is code[0], and the previous element of code[0] is code[n-1].
 //
 // Given the circular array code and an integer key k, return the decrypted code to defuse the bomb!
-package defuseBomb
+package leetcodeonesixfivetwo
 
 func decrypt(code []int, k int) []int {
 	var result = make([]int, len(code))

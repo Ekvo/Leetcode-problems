@@ -54,7 +54,7 @@ func pathSum(root *TreeNode, targetSum int) [][]int {
 ```
 
 ---
-### [Solution => 113. Path Sum II](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0113-Path-Sum-II/pathSumII.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0113-Path-Sum-II/pathSumII.go")
+### [Solution => 113. Path Sum II](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0113-Path-Sum-II/leetcodeoneonethree.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0113-Path-Sum-II/leetcodeoneonethree.go")
 
 ---
 * ### Metod => Depth First Search and Recursion
