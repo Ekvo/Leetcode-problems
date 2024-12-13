@@ -54,7 +54,7 @@ func pickGifts(gifts []int, k int) int64 {
 ```
 
 ---
-### [Solution => 2558. Take Gifts From the Richest Pile](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2558-Take-Gifts-From-the-Richest-Pile/TakeGiftsFromtheRichestPile.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2558-Take-Gifts-From-the-Richest-Pile/TakeGiftsFromtheRichestPile.go")
+### [Solution => 2558. Take Gifts From the Richest Pile](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2558-Take-Gifts-From-the-Richest-Pile/leetcodetwofivefiveeight.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/2558-Take-Gifts-From-the-Richest-Pile/leetcodetwofivefiveeight.go")
 
 ---
 * ### Metod => Heap/Sort
@@ -63,11 +63,5 @@ func pickGifts(gifts []int, k int) int64 {
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/2558_Take_Gifts_From_the_Richest_Pile.jpg)
-
-* #### Time complexity
-
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/2558_Take_Gifts_From_the_Richest_Pile_Time_Complexity.jpg)
-
-* #### Space complexity
-
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/2558_Take_Gifts_From_the_Richest_Pile_Space_Complexity.jpg)
