@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 35 problems.
+## List of the 36 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -39,5 +39,6 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [3097. Shortest Subarray With OR at Least K II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3097-Shortest-Subarray-With-OR-at-Least-K-II/shortestSubarrayWithORLeastK-II.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3097-Shortest-Subarray-With-OR-at-Least-K-II/shortestSubarrayWithORLeastK-II.md")
 * [3152. Special Array II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3152-Special-Array-II/SpecialArrayII.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3152-Special-Array-II/SpecialArrayII.md")
 * [3254. Find the Power of K-Size Subarrays I](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/FindPowerKSizeSubarraysI.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/FindPowerKSizeSubarraysI.md")
-
+* [3264. Final Array State After K Multiplication Operations I](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3264-Final-Array-State-After-K-Multiplication-Operations-I/FinalArrayStateAfterKMultiplicationOperationsI.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3264-Final-Array-State-After-K-Multiplication-Operations-I/FinalArrayStateAfterKMultiplicationOperationsI.md")
+ 
 #### If my approach to solving problems was interesting to you, I’m glad.
