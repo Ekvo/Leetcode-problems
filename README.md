@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 38 problems.
+## List of the 39 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -22,6 +22,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [0204. Basic Calculator](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0224-Basic-Calculator/BasicCalculator.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0224-Basic-Calculator/BasicCalculator.md")
 * [1346. Check If N and Its Double Exist](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md")
 * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md")
+* [1475. Final Prices With a Special Discount in a Shop](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md")
 * [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md")
 * [1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md")
 * [1760. Minimum Limit of Balls in a Bag](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md")
