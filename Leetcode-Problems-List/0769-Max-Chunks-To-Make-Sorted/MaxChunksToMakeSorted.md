@@ -53,8 +53,8 @@ func maxChunksToSorted(arr []int) int {
 ---
 * ### Metod => Prefix Sums
 ```Golang
-indexSum       = 0
-integerSum     = 0
+indexSum
+integerSum 
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/769_Max_Chunks_To_Make_Sorted_Prefix_Sum.jpg)
