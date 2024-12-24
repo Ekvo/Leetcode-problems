@@ -54,12 +54,14 @@ The **level** of a node is the number of edges along the path between it and the
 * ### Base data
 
 ```Golang
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
 func reverseOddLevels(root *TreeNode) *TreeNode {
 }
 ```
