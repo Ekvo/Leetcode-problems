@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 47 problems.
+## List of the 48 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -24,6 +24,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [0515. Find Largest Value in Each Tree Row](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0515-Find-Largest-Value-in-Each-Tree-Row/FindLargestValueinEachTreeRow.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0515-Find-Largest-Value-in-Each-Tree-Row/FindLargestValueinEachTreeRow.md")
 * [0769. Max Chunks To Make Sorted](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0769-Max-Chunks-To-Make-Sorted/MaxChunksToMakeSorted.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0769-Max-Chunks-To-Make-Sorted/MaxChunksToMakeSorted.md")
 * [0965. Univalued Binary Tree](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0965-Univalued-Binary-Tree/UnivaluedBinaryTree.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0965-Univalued-Binary-Tree/UnivaluedBinaryTree.md")
+* [1014. Best Sightseeing Pair](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/BestSightseeingPair.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/BestSightseeingPair.md")
 * [1346. Check If N and Its Double Exist](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md")
 * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md")
 * [1475. Final Prices With a Special Discount in a Shop](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md")

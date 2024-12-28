@@ -11,7 +11,6 @@
 //Note:
 // The queries are independent, so the tree returns to its initial state after each query.
 // The height of a tree is the number of edges in the longest simple path from the root to some node in the tree.
-
 package leetcodetwofourfiveeight
 
 // Definition for a binary tree node.
@@ -69,6 +68,7 @@ func treeQueries(root *TreeNode, queries []int) []int {
 	for i := 0; i < len(queries); i++ {
 
 		if obj, ex := numberNodes[number(queries[i])]; ex {
+
 			if levelNodes[obj.current][0] == obj.deapLvl {
 				queries[i] = int(levelNodes[obj.current][1])
 			} else {
