@@ -41,7 +41,7 @@ func maxScoreSightseeingPair(values []int) int {
 ```
 
 ---
-### [Solution => ]( "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0001-Two-Sum/leetcodeone.go")
+### [Solution = 1014. Best Sightseeing Pair](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/leetcodeonezeroonefour.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/leetcodeonezeroonefour.go")
 
 ---
 * ### Metod => Dynamic Programming
