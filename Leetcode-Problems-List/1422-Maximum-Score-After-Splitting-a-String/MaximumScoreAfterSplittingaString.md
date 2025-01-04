@@ -63,7 +63,6 @@ for index > 0 {
 for index < len(s)-1 {
 	//get result
 }
-
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/1422_Maximum_Score_After_Splitting_a_String.jpg)
