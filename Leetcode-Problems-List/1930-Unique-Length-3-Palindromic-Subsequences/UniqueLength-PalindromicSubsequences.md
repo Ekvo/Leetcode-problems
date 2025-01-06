@@ -67,6 +67,18 @@ func countPalindromicSubsequence(s string) int {
 n := 'z' - 'a' + 1
 first := make([]int, n)
 last := make([]int, n)
+
+for i := 0; i < len(s); i++ {	
+	// load first and last	
+}
+
+numberOfPalindromes := 0
+for i := 0; i < len(first); i++{
+	
+   if findPalindrome {
+      // increment numberOfPalindromes
+   } 
+}
 ```
 
 ![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/1930-Unique-Length-3-Palindromic-Subsequences.jpg)
