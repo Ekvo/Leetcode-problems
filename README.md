@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 52 problems.
+## List of the 53 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -34,6 +34,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md")
 * [1760. Minimum Limit of Balls in a Bag](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md")
 * [1792. Maximum Average Pass Ratio](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md")
+* [1930. Unique Length-3 Palindromic Subsequences](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md")
 * [2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/MinimizedMaximumProductsDistributedAnyStore.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/MinimizedMaximumProductsDistributedAnyStore.md")
 * [2070. Most Beautiful Item for Each Query](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/MostBeautifulItemForEachQuery.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2070-Most-Beautiful-Item-for-Each-Query/MostBeautifulItemForEachQuery.md")
 * [2109. Adding Spaces to a String](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2109-Adding-Spaces-to-a-String/AddingSpacestoaString.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2109-Adding-Spaces-to-a-String/AddingSpacestoaString.md")
