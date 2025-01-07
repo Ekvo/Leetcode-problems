@@ -55,7 +55,7 @@ func shiftingLetters(s string, shifts [][]int) string {
 ```Golang
 difArr := make([]int, len(s)+1)
 for _, shift := range shifts {
-	// load difArr
+    // load difArr
 }
 
 arr := []byte(s)

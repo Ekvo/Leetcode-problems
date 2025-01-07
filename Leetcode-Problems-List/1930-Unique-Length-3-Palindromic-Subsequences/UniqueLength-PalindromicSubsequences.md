@@ -69,7 +69,7 @@ first := make([]int, n)
 last := make([]int, n)
 
 for i := 0; i < len(s); i++ {	
-	// load first and last	
+      // load first and last	
 }
 
 numberOfPalindromes := 0
