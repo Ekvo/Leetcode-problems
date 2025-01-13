@@ -71,7 +71,7 @@ for i := 0; i < len(s); i++ {
 
 for i := len(s) - 1; i > -1; i-- {
 	
-    if count of '(' > 0  //false
+    if count of '(' > 0  // false
 }
 ```
 | Property | Complexity |              
