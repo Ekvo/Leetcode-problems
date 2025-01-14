@@ -43,7 +43,7 @@ func longestValidParentheses(s string) int {
 ```
 
 ---
-### [Solution => 32. Longest Valid Parentheses]( "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0032-Longest-Valid-Parentheses/leetcodethreetwo.go")
+### [Solution => 32. Longest Valid Parentheses](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0032-Longest-Valid-Parentheses/leetcodethreetwo.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0032-Longest-Valid-Parentheses/leetcodethreetwo.go")
 
 ---
 * ### Metod => Cycle right & Cycle left

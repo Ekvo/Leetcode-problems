@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 62 problems.
+## List of the 63 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -64,6 +64,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [3042. Count Prefix and Suffix Pairs I](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3042-Count-Prefix-and-Suffix-Pairs-I/CountPrefixandSuffixPairsI.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3042-Count-Prefix-and-Suffix-Pairs-I/CountPrefixandSuffixPairsI.md")
 * [3097. Shortest Subarray With OR at Least K II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3097-Shortest-Subarray-With-OR-at-Least-K-II/shortestSubarrayWithORLeastK-II.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3097-Shortest-Subarray-With-OR-at-Least-K-II/shortestSubarrayWithORLeastK-II.md")
 * [3152. Special Array II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3152-Special-Array-II/SpecialArrayII.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3152-Special-Array-II/SpecialArrayII.md")
+* [3223. Minimum Length of String After Operations](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3223-Minimum-Length-of-String-After-Operations/MinimumLengthofStringAfterOperations.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3223-Minimum-Length-of-String-After-Operations/MinimumLengthofStringAfterOperations.md")
 * [3254. Find the Power of K-Size Subarrays I](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/FindPowerKSizeSubarraysI.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3254-Find-the-Power-of-K-Size-Subarrays-I/FindPowerKSizeSubarraysI.md")
 * [3264. Final Array State After K Multiplication Operations I](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3264-Final-Array-State-After-K-Multiplication-Operations-I/FinalArrayStateAfterKMultiplicationOperationsI.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/3264-Final-Array-State-After-K-Multiplication-Operations-I/FinalArrayStateAfterKMultiplicationOperationsI.md")
  
