@@ -64,7 +64,7 @@ func gridGame(grid [][]int) int64 {
 * ### Metod => Prefix and Suffix Sum
 ```Golang
 for i := 0; i < len(grid[0]); i++ {
-    //find sum grid[0] 
+    //find sum grid[0] - Suffix Sum
 }
 
 for i := 0; i < len(grid[0]); i++ {

@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 70 problems.
+## List of the 71 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -38,6 +38,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md")
 * [1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md")
 * [1760. Minimum Limit of Balls in a Bag](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1760-Minimum-Limit-of-Balls-in-a-Bag/MinimumLimitofBallsinaBag.md")
+* [1765. Map of Highest Peak](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1765-Map-of-Highest-Peak/MapofHighestPeak.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1765-Map-of-Highest-Peak/MapofHighestPeak.md")
 * [1769. Minimum Number of Operations to Move All Balls to Each Box](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/MinimumNumberofOperationstoMoveAllBallstoEachBox.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/MinimumNumberofOperationstoMoveAllBallstoEachBox.md")
 * [1792. Maximum Average Pass Ratio](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md")
 * [1930. Unique Length-3 Palindromic Subsequences](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md")
