@@ -80,4 +80,4 @@ for len(queue) > 0 {
 | Time     | $O(N * M)$ |
 | Space    | $O(N + M)$ |
 
-![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/![1267_Count_Servers_that_Communicate.jpg](..%2F..%2FLeetcode-Problems-Submit-Screenshots%2F1267_Count_Servers_that_Communicate.jpg).jpg)
+![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/1267_Count_Servers_that_Communicate.jpg)
