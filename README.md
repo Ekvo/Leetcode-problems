@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 74 problems.
+## List of the 75 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -36,6 +36,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [1408. String Matching in an Array](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1408-String-Matching-in-an-Array/StringMatchinginanArray.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1408-String-Matching-in-an-Array/StringMatchinginanArray.md")
 * [1422. Maximum Score After Splitting a String](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1422-Maximum-Score-After-Splitting-a-String/MaximumScoreAfterSplittingaString.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1422-Maximum-Score-After-Splitting-a-String/MaximumScoreAfterSplittingaString.md")
 * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.md")
+* [1462. Course Schedule IV](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1462-Course-Schedule-IV/CourseScheduleIV.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1462-Course-Schedule-IV/CourseScheduleIV.md")
 * [1475. Final Prices With a Special Discount in a Shop](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/FinalPricesWithaSpecialDiscountinaShop.md")
 * [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted/ShortestSubarrayRemovedMakeArraySorted.md")
 * [1652. Defuse the Bomb](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1652-Defuse-the-Bomb/DefuseBomb.md")
