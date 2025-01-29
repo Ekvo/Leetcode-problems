@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 75 problems.
+## List of the 76 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -66,6 +66,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [2593. Find Score of an Array After Marking All Elements](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2593_Find_Score_of_an_Array_After_Marking_All_Elements/FindScoreofanArrayAfterMarkingAllElements.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2593_Find_Score_of_an_Array_After_Marking_All_Elements/FindScoreofanArrayAfterMarkingAllElements.md")
 * [2601. Prime Subtraction Operation](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/PrimeSubtractionOperation.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2601-Prime-Subtraction-Operation/PrimeSubtractionOperation.md")
 * [2657. Find the Prefix Common Array of Two Arrays](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2657-Find-the-Prefix-Common-Array-of-Two-Arrays/FindthePrefixCommonArrayofTwoArrays.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2657-Find-the-Prefix-Common-Array-of-Two-Arrays/FindthePrefixCommonArrayofTwoArrays.md")
+* [2658. Maximum Number of Fish in a Grid](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2658-Maximum-Number-of-Fish-in-a-Grid/MaximumNumberofFishinaGrid.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2658-Maximum-Number-of-Fish-in-a-Grid/MaximumNumberofFishinaGrid.md")
 * [2661. First Completely Painted Row or Column](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2661-First-Completely-Painted-Row-or-Column/FirstCompletelyPaintedRoworColumn.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2661-First-Completely-Painted-Row-or-Column/FirstCompletelyPaintedRoworColumn.md")
 * [2683. Neighboring Bitwise XOR](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2683-Neighboring-Bitwise-XOR/NeighboringBitwiseXOR.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2683-Neighboring-Bitwise-XOR/NeighboringBitwiseXOR.md")
 * [2779. Maximum Beauty of an Array After Applying Operation](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2779-Maximum-Beauty-of-an-Array-After-Applying-Operation/MaximumBeautyofanArrayAfterApplyingOperation.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2779-Maximum-Beauty-of-an-Array-After-Applying-Operation/MaximumBeautyofanArrayAfterApplyingOperation.md")
