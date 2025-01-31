@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 77 problems.
+## List of the 78 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -14,6 +14,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [0027. Remove Element](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0027-Remove-Element/RemoveElement.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0027-Remove-Element/RemoveElement.md")
 * [0032. Longest Valid Parentheses](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0032-Longest-Valid-Parentheses/LongestValidParentheses.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0032-Longest-Valid-Parentheses/LongestValidParentheses.md")
 * [0061. Rotate List](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0061-Rotate-List/RotateList.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0061-Rotate-List/RotateList.md")
+* [0075. Sort Colors](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0075-Sort-Colors/SortColors.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0075-Sort-Colors/SortColors.md")
 * [0101. Symmetric Tree](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0101-Symmetric-Tree/SymmetricTree.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0101-Symmetric-Tree/SymmetricTree.md")
 * [0107. Binary Tree Level Order Traversal II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0107-Binary-Tree-Level-Order-Traversal-II/BinaryTreeLevelOrderTraversalII.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0107-Binary-Tree-Level-Order-Traversal-II/BinaryTreeLevelOrderTraversalII.md")
 * [0111. Minimum Depth of Binary Tree](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/MinimumDepthBinaryTree.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0111-Minimum-Depth-of-Binary-Tree/MinimumDepthBinaryTree.md")

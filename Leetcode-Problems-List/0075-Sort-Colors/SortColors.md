@@ -1,0 +1,67 @@
+## 75. Sort Colors => [original page](https://leetcode.com/problems/sort-colors/description/ "https://leetcode.com/problems/sort-colors/description/")
+
+---
+| Property                |      |   Target |              
+|:------------------------|:----:|---------:|
+| complexity of the task  | ---> | _Medium_ |
+| status                  | ---> | _Solved_ |
+
+---
+**Task:**  
+Given an array `nums` with `n` objects colored red, white, or blue, sort them **in-place** so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+
+We will use the integers `0`, `1`, and `2` to represent the color red, white, and blue, respectively.
+
+You must solve this problem without using the library's sort function.
+
+---
+**Example 1:**
+
+**Input:** `nums = [2,0,2,1,1,0]`  
+**Output:** `[0,0,1,1,2,2]`  
+
+**Example 2:**
+
+**Input:** `nums = [2,0,1]`  
+**Output:** `[0,1,2]`  
+
+---
+**Constraints:**
+
+   * `n == nums.length`
+   * $1$ `<= n <=` $300$
+   * `nums[i] is either 0, 1, or 2.`
+ 
+---
+* ### Base data
+
+```Golang
+func sortColors(nums []int)  {
+}
+```
+
+---
+### [Solution => 75. Sort Colors](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0075-Sort-Colors/leetcodesevenfive.go "https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-List/0075-Sort-Colors/leetcodesevenfive.go")
+
+---
+* ### Metod => Сounting the number of colors
+```Golang
+colorCount := make([]int, 3) // count of '0', '1', '2'
+
+for _, num := range nums {
+   //count of each color
+}
+
+for color, count := range colorCount {
+	
+    for  count > 0 {
+      //fill the arrays 'nums'	
+   }
+}
+```
+| Property | Complexity |              
+|:---------|:----------:|
+| Time     |   $O(N)$   |
+| Space    |   $O(1)$   |
+
+![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/75_Sort_Colors.jpg)
