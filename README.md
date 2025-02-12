@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 89 problems.
+## List of the 90 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -51,6 +51,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [1790. Check if One String Swap Can Make Strings Equal](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/CheckifOneStringSwapCanMakeStringsEqual.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1790-Check-if-One-String-Swap-Can-Make-Strings-Equal/CheckifOneStringSwapCanMakeStringsEqual.md")
 * [1792. Maximum Average Pass Ratio](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1792-Maximum-Average-Pass-Ratio/MaximumAveragePassRatio.md")
 * [1800. Maximum Ascending Subarray Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1800-Maximum-Ascending-Subarray-Sum/MaximumAscendingSubarraySum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1800-Maximum-Ascending-Subarray-Sum/MaximumAscendingSubarraySum.md")
+* [1910. Remove All Occurrences of a Substring](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1910-Remove-All-Occurrences-of-a-Substring/RemoveAllOccurrencesofaSubstring.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1910-Remove-All-Occurrences-of-a-Substring/RemoveAllOccurrencesofaSubstring.md")
 * [1930. Unique Length-3 Palindromic Subsequences](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1930-Unique-Length-3-Palindromic-Subsequences/UniqueLength-PalindromicSubsequences.md")
 * [2017. Grid Game](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2017-Grid-Game/GridGame.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2017-Grid-Game/GridGame.md")
 * [2064. Minimized Maximum of Products Distributed to Any Store](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/MinimizedMaximumProductsDistributedAnyStore.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2064-Minimized-Maximum-of-Products-Distributed-to-Any-Store/MinimizedMaximumProductsDistributedAnyStore.md")

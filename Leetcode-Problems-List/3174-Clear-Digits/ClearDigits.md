@@ -62,4 +62,4 @@ for i, ch := range line {
 | Time     |   $O(N)$   |
 | Space    |   $O(1)$   |
 
-![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/.jpg)
+![submit](https://github.com/Ekvo/Leetcode-problems/blob/main/Leetcode-Problems-Submit-Screenshots/3174_Clear_Digits.jpg)
