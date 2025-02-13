@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 90 problems.
+## List of the 91 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -62,6 +62,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [2116. Check if a Parentheses String Can Be Valid](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2116-Check-if-a-Parentheses-String-Can-Be-Valid/CheckifaParenthesesStringCanBeValid.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2116-Check-if-a-Parentheses-String-Can-Be-Valid/CheckifaParenthesesStringCanBeValid.md")
 * [2270. Number of Ways to Split Array](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2270-Number-of-Ways-to-Split-Array/NumberofWaystoSplitArray.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2270-Number-of-Ways-to-Split-Array/NumberofWaystoSplitArray.md")
 * [2337. Move Pieces to Obtain a String](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2337-Move-Pieces-to-Obtain-a-String/MovePiecestoObtainaString.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2337-Move-Pieces-to-Obtain-a-String/MovePiecestoObtainaString.md")
+* [2342. Max Sum of a Pair With Equal Sum of Digits](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2342-Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits/MaxSumofaPairWithEqualSumofDigits.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2342-Max-Sum-of-a-Pair-With-Equal-Sum-of-Digits/MaxSumofaPairWithEqualSumofDigits.md")
 * [2349. Design a Number Container System](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2349-Design-a-Number-Container-System/DesignaNumberContainerSystem.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2349-Design-a-Number-Container-System/DesignaNumberContainerSystem.md")
 * [2364. Count Number of Bad Pairs](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2364-Count-Number-of-Bad-Pairs/CountNumberofBadPairs.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2364-Count-Number-of-Bad-Pairs/CountNumberofBadPairs.md")
 * [2381. Shifting Letters II](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2381-Shifting-Letters-II/ShiftingLettersII.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/2381-Shifting-Letters-II/ShiftingLettersII.md")
