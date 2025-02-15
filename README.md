@@ -2,7 +2,7 @@
 
 My name is Alexander, and I present in this public repository the solutions to tasks I completed from the [Leetcode.com](https://leetcode.com/ "https://leetcode.com/") website.
 
-## List of the 92 problems.
+## List of the 93 problems.
 
 * [0001. Two Sum](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0001-Two-Sum/TwoSum.md")
 * [0002. Add Two Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/0002-Add-Two-Numbers/AddTwoNumbers.md")
@@ -34,6 +34,7 @@ My name is Alexander, and I present in this public repository the solutions to t
 * [1014. Best Sightseeing Pair](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/BestSightseeingPair.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1014-Best-Sightseeing-Pair/BestSightseeingPair.md")
 * [1267. Count Servers that Communicate](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1267-Count-Servers-that-Communicate/CountServersthatCommunicate.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1267-Count-Servers-that-Communicate/CountServersthatCommunicate.md")
 * [1346. Check If N and Its Double Exist](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1346-Check-If-N-and-Its-Double-Exist/CheckIfNandItsDoubleExist.md")
+* [1352. Product of the Last K Numbers](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1352-Product-of-the-Last-K-Numbers/ProductoftheLastKNumbers.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1352-Product-of-the-Last-K-Numbers/ProductoftheLastKNumbers.md")
 * [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/MinimumCosttoMakeatLeastOneValidPathinaGrid.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/MinimumCosttoMakeatLeastOneValidPathinaGrid.md")
 * [1400. Construct K Palindrome Strings](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1400-Construct-K-Palindrome-Strings/ConstructKPalindromeStrings.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1400-Construct-K-Palindrome-Strings/ConstructKPalindromeStrings.md")
 * [1408. String Matching in an Array](https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1408-String-Matching-in-an-Array/StringMatchinginanArray.md "https://github.com/Ekvo/Leetcode-problems/tree/main/Leetcode-Problems-List/1408-String-Matching-in-an-Array/StringMatchinginanArray.md")
